@@ -1,0 +1,307 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.4.5)  15 SEP 2013 00:04
+entering extended mode
+**C:/Users/farhan/Desktop/MLSP/Camera*ready/ScaleUp_MLSP.tex
+("C:/Users/farhan/Desktop/MLSP/Camera ready/ScaleUp_MLSP.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+(D:\user\farhan\Miktex\miktex\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(D:\user\farhan\Miktex\miktex\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(D:\user\farhan\Miktex\miktex\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(D:\user\farhan\Miktex\miktex\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(D:\user\farhan\Miktex\miktex\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(D:\user\farhan\Miktex\miktex\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(D:\user\farhan\Miktex\miktex\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(D:\user\farhan\Miktex\miktex\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\user\farhan\Miktex\miktex\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(D:\user\farhan\Miktex\miktex\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\user\farhan\Miktex\miktex\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:\user\farhan\Miktex\miktex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(D:\user\farhan\Miktex\miktex\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(D:\user\farhan\Miktex\miktex\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(D:\user\farhan\Miktex\miktex\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\farhan\Desktop\MLSP\Camera ready\mlspconf.sty")
+(D:\user\farhan\Miktex\miktex\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(D:\user\farhan\Miktex\miktex\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Users\farhan\Desktop\MLSP\Camera ready\ScaleUp_MLSP.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 73.
+
+(D:\user\farhan\Miktex\miktex\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(D:\user\farhan\Miktex\miktex\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+LaTeX Font Info:    Try loading font information for U+msa on input line 77.
+ (D:\user\farhan\Miktex\miktex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 77.
+
+(D:\user\farhan\Miktex\miktex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 79.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 83.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+
+Overfull \vbox (5.4559pt too high) has occurred while \output is active []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 101.
+
+
+(D:\user\farhan\Miktex\miktex\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[1{C:/Users/farhan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+
+]
+<Fig1.png, id=16, 651.1527pt x 512.6352pt>
+File: Fig1.png Graphic file (type png)
+ <use Fig1.png>
+Package pdftex.def Info: Fig1.png used on input line 116.
+(pdftex.def)             Requested size: 241.84842pt x 190.3995pt.
+ [2 <C:/Users/farhan/Desktop/MLSP/Camera ready/Fig1.png>]
+Underfull \hbox (badness 1014) in paragraph at lines 163--165
+\OT1/ptm/m/n/10 re-gres-sion method-ol-ogy should min-i-mize cor-re-la-tion and
+
+ []
+
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 172.
+
+Missing character: There is no × in font cmr7!
+[3]
+Underfull \hbox (badness 1286) in paragraph at lines 253--256
+\OT1/ptm/m/n/10 i-ma-tion gives rise to an equiv-a-lent pe-nal-ized it-er-a-tiv
+ely
+ []
+
+<Fig3anew.png, id=33, 590.95781pt x 379.4175pt>
+File: Fig3anew.png Graphic file (type png)
+ <use Fig3anew.png>
+Package pdftex.def Info: Fig3anew.png used on input line 272.
+(pdftex.def)             Requested size: 142.26378pt x 91.33415pt.
+
+<Fig3bnew.png, id=34, 590.95781pt x 379.4175pt>
+File: Fig3bnew.png Graphic file (type png)
+ <use Fig3bnew.png>
+Package pdftex.def Info: Fig3bnew.png used on input line 279.
+(pdftex.def)             Requested size: 142.26378pt x 91.33415pt.
+ [4]
+<Fig4new.png, id=40, 590.95781pt x 379.4175pt>
+File: Fig4new.png Graphic file (type png)
+ <use Fig4new.png>
+Package pdftex.def Info: Fig4new.png used on input line 299.
+(pdftex.def)             Requested size: 241.8434pt x 113.80875pt.
+
+<Fig5new.png, id=41, 590.95781pt x 379.4175pt>
+File: Fig5new.png Graphic file (type png)
+ <use Fig5new.png>
+Package pdftex.def Info: Fig5new.png used on input line 322.
+(pdftex.def)             Requested size: 142.26378pt x 91.33415pt.
+
+<Fig6new.png, id=42, 590.95781pt x 379.4175pt>
+File: Fig6new.png Graphic file (type png)
+ <use Fig6new.png>
+Package pdftex.def Info: Fig6new.png used on input line 329.
+(pdftex.def)             Requested size: 142.26378pt x 91.33415pt.
+ [5 <C:/Users/farhan/Desktop/MLSP/Camera ready/Fig3anew.png (PNG copy)> <C:/Use
+rs/farhan/Desktop/MLSP/Camera ready/Fig3bnew.png (PNG copy)> <C:/Users/farhan/D
+esktop/MLSP/Camera ready/Fig4new.png (PNG copy)>]
+("C:\Users\farhan\Desktop\MLSP\Camera ready\ScaleUp_MLSP.bbl"
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+
+Underfull \hbox (badness 1803) in paragraph at lines 35--40
+[]\OT1/ptm/m/n/9 Rocha-Valadez JA, Estrada M, Galindo E, and Serrano-
+ []
+
+) [6 <C:/Users/farhan/Desktop/MLSP/Camera ready/Fig5new.png (PNG copy)> <C:/Use
+rs/farhan/Desktop/MLSP/Camera ready/Fig6new.png (PNG copy)>]
+("C:\Users\farhan\Desktop\MLSP\Camera ready\ScaleUp_MLSP.aux") ) 
+Here is how much of TeX's memory you used:
+ 2204 strings out of 494045
+ 27603 string characters out of 3147982
+ 92011 words of memory out of 3000000
+ 5460 multiletter control sequences out of 15000+200000
+ 31909 words of font info for 74 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 27i,16n,24p,2139b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/user/farhan
+/Miktex/miktex/fonts/enc/dvips/fontname/8r.enc}<D:/user/farhan/Miktex/miktex/fo
+nts/type1/public/amsfonts/cm/cmbx10.pfb><D:/user/farhan/Miktex/miktex/fonts/typ
+e1/public/amsfonts/cm/cmex10.pfb><D:/user/farhan/Miktex/miktex/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><D:/user/farhan/Miktex/miktex/fonts/type1/public/amsf
+onts/cm/cmmi5.pfb><D:/user/farhan/Miktex/miktex/fonts/type1/public/amsfonts/cm/
+cmmi7.pfb><D:/user/farhan/Miktex/miktex/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b><D:/user/farhan/Miktex/miktex/fonts/type1/public/amsfonts/cm/cmmib10.pfb><D:/
+user/farhan/Miktex/miktex/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb><D:/us
+er/farhan/Miktex/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/user/farha
+n/Miktex/miktex/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/user/farhan/Miktex/
+miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/user/farhan/Miktex/miktex/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><D:/user/farhan/Miktex/miktex/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><D:/user/farhan/Miktex/miktex/fonts/type1/public
+/amsfonts/cm/cmsy5.pfb><D:/user/farhan/Miktex/miktex/fonts/type1/public/amsfont
+s/cm/cmsy6.pfb><D:/user/farhan/Miktex/miktex/fonts/type1/public/amsfonts/cm/cms
+y7.pfb><D:/user/farhan/Miktex/miktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+D:/user/farhan/Miktex/miktex/fonts/type1/public/amsfonts/cm/cmsy9.pfb><D:/user/
+farhan/Miktex/miktex/fonts/type1/public/amsfonts/symbols/msbm10.pfb><D:/user/fa
+rhan/Miktex/miktex/fonts/type1/urw/times/utmb8a.pfb><D:/user/farhan/Miktex/mikt
+ex/fonts/type1/urw/times/utmbi8a.pfb><D:/user/farhan/Miktex/miktex/fonts/type1/
+urw/times/utmr8a.pfb><D:/user/farhan/Miktex/miktex/fonts/type1/urw/times/utmri8
+a.pfb>
+Output written on ScaleUp_MLSP.pdf (6 pages, 887559 bytes).
+PDF statistics:
+ 120 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+

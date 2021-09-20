@@ -1,0 +1,109 @@
+\begin{thebibliography}{10}
+
+\bibitem{ScaleUp_MLSP:junker04}
+Junker HB,
+\newblock ``Scale-up methodologies for eschericia coli and yeast fermentation
+  processes,''
+\newblock {\em Bioscience and Bioengineering}, vol. 97, pp. 347--364, 2004.
+
+\bibitem{ScaleUp_MLSP:schmidt05}
+Schmidt FR,
+\newblock ``Optimization and scale up of industrial fermentation processes,''
+\newblock {\em Applied Microbiology and Biotechnology}, vol. 68, pp. 425--435,
+  2005.
+
+\bibitem{ScaleUp_MLSP:garcia09}
+Garcia-Ochoa F and Gomez E,
+\newblock ``Bioreactor scale-up and oxygen transfer rate in microbial
+  processes: An overview,''
+\newblock {\em Biotechnology Advances}, vol. 27, pp. 153--176, 2009.
+
+\bibitem{ScaleUp_MLSP:katzer01}
+Katzer W, Blackburn M, Charman K, Martin S, Penn J, and Wrigley S,
+\newblock ``Scale-up of filamentous organisms from tubes and shake-flasks into
+  stirred vessels,''
+\newblock {\em Biochemical Engineering}, vol. 7, pp. 127--134, 2001.
+
+\bibitem{ScaleUp_MLSP:marques10}
+Marques MPC, Cabral JMS, and Fernandes P,
+\newblock ``Bioprocess scale-up: quest for the parameters to be used as
+  criterion to move from microreactors to lab-scale,''
+\newblock {\em Chemical Technology and Biotechnology}, vol. 85, pp. 1184--1198,
+  2010.
+
+\bibitem{ScaleUp_MLSP:rocha06}
+Rocha-Valadez JA, Estrada M, Galindo E, and Serrano-Carreon L,
+\newblock ``From shake flasks to stirred fermenters: Scale-up of an extractive
+  fermentation process for 6-pentyl-a-pyrone production by trichoderma
+  harzianum using volumetric power input,''
+\newblock {\em Process Biochemistry}, vol. 41, pp. 1347--1352, 2006.
+
+\bibitem{ScaleUp_MLSP:seletzky07}
+Seletzky JM, Noak U, Fricke J, Welk E, Eberhard W, and Knocke~C et~al,
+\newblock ``Scale-up from shake flasks to fermenters in batch and continuous
+  mode with corynebacterium glutamicum on lactic acid based on oxygen transfer
+  and ph,''
+\newblock {\em Biotechnology and Bioengineering}, vol. 98, pp. 800--811, 2007.
+
+\bibitem{ScaleUp_MLSP:hsu02}
+Hsu Y-L and Wu~W-T,
+\newblock ``A novel approach for scaling-up a fermentation system,''
+\newblock {\em Biochemical Engineering}, vol. 11, pp. 123--130, 2002.
+
+\bibitem{ScaleUp_MLSP:ogawa94}
+Ogawa S, Kamijima T, Miyamotao Y, Miyajima M, Sato H, and Takayama~K et~al,
+\newblock ``A new attempt to solve the scale-up problem for granulation using
+  response surface methodology,''
+\newblock {\em Pharmaceutical Sciences}, vol. 83, pp. 439--443, 1994.
+
+\bibitem{ScaleUp_MLSP:saran07}
+Saran S, Isar J, and Saxena RK,
+\newblock ``Statistical optimization of conditions for protease production from
+  bacillus sp. and its scale-up in a bioreactor,''
+\newblock {\em Applied Biochemistry and Biotechnology}, vol. 141, pp. 229--240,
+  2007.
+
+\bibitem{ScaleUp_MLSP:stockburger01}
+Stockburger DW,
+\newblock {\em Multivariate statistics: concepts, models, and applications},
+\newblock Missouri State University, 2001.
+
+\bibitem{ScaleUp_MLSP:hastie09}
+Hastie T, Tibshirani R, and Friedman JH,
+\newblock {\em The elements of statistical learning: Data mining, inference,
+  and prediction},
+\newblock Springer Series in Statistics, Springer, 2009.
+
+\bibitem{ScaleUp_MLSP:kauppi11}
+Kauppi J-P, Huttunen H, Korkala H, J{\"{a}}{\"{a}}skel{\"{a}}inen IP, Sams M,
+  and Tohka J,
+\newblock ``Face prediction from fmri data during movie stimulus: Strategies
+  for feature selection,''
+\newblock in {\em Proc. International Conference on Artificial Neural Networks
+  ICANN}, 2011, pp. 189--196.
+
+\bibitem{ScaleUp_MLSP:tibshirani96}
+Tibshirani R,
+\newblock ``Regression shrinkage and selection via the lasso,''
+\newblock {\em Royal Statistical Society Series B Methodological}, vol. 58, pp.
+  267--288, 1996.
+
+\bibitem{ScaleUp_MLSP:efron04}
+Efron B, Hastie T, Johnstone I, and Tibshirani R,
+\newblock ``Least angle regression,''
+\newblock {\em Annals of Statistics}, vol. 32, pp. 407--499, 2004.
+
+\bibitem{ScaleUp_MLSP:friedman10}
+Friedman JH, Hastie T, and Tibshirani R,
+\newblock ``Regularization paths for generalized linear models via coordinate
+  descent,''
+\newblock {\em Statistical Software}, vol. 33, pp. 1--22, 2010.
+
+\bibitem{ScaleUp_MLSP:huttunen11}
+Huttunen H, Kauppi J-P, and Tohka J,
+\newblock ``Regularized logistic regression for mind reading with parallel
+  validation,''
+\newblock in {\em Winning submission to Mind reading from MEG, PASCAL Challenge
+  in ICANN}, 2011, pp. 20--24.
+
+\end{thebibliography}
