@@ -1,0 +1,19 @@
+Formula: (CC +22)^2/100
+img_245:
+diagonal: (105,149,631,415)
+diagonal_length: 1.3
+heart_girth: (574,157,574,459)
+heart_girth_length: 1.8
+weight:408.04kg
+
+
+img_34:
+heart_girth:(607,76 ,607, 370)
+heart_girth_length: 1.77
+weight:396.01 kg
+
+img_44:
+heart_girth:(589,117 ,589, 406)
+heart_girth_length: 2.73
+weight: 870 kg
+
